@@ -1,3 +1,4 @@
+![logo](https://github.com/taiyk53/taiyk53/blob/main/bi-dashboard-for-banner-github.gif)
 <h1 align="center">Hi, I am Taiyaba</h1>
 <h3 align="center">Aspiring Data Analyst with a passion for turning data into actionable insights and optimizing business processes</h3>
 <img align="right" alt="coding" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
