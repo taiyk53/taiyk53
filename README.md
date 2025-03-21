@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=taiyk53&label=Profile%20views&color=0e75b6&style=flat" alt="taiyk53" />
 </p>
 
-- 📫 How to reach me **khatoontaiyaba53@gmail.com**
+<p><strong>📫 How to reach me:</strong> <a href="mailto:khatoontaiyaba53@gmail.com">khatoontaiyaba53@gmail.com</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -53,3 +53,4 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taiyk53&" alt="GitHub Streak Stats" />
 </p>
+
