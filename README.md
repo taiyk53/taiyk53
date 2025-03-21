@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I am Taiyaba</h1>
 <h3 align="center">Aspiring Data Analyst with a passion for turning data into actionable insights and optimizing business processes</h3>
 
-<img align="right" alt="coding" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
+<img align="right" alt="coding" width="300" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=taiyk53&label=Profile%20views&color=0e75b6&style=flat" alt="taiyk53" />
